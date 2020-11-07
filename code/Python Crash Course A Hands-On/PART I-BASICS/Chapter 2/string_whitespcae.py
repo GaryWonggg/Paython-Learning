@@ -35,7 +35,7 @@ print("Languages:\n\tPython\n\tC\n\tJavaScript")
 """
 split line for each part
 """
-print("============================split line===================================")
+print("==============================split line==============================")
 
 
 """
